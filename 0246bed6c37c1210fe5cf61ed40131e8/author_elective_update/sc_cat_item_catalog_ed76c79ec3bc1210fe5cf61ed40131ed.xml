@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Training Request">cc218f96c3bc1210fe5cf61ed4013116</sc_cat_item>
+        <sc_catalog display_value="HR Catalog">d9720f1ac3bc1210fe5cf61ed40131d6</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-24 21:39:21</sys_created_on>
+        <sys_id>ed76c79ec3bc1210fe5cf61ed40131ed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HR Catalog.Training Request</sys_name>
+        <sys_package display_value="Skillficient" source="x_958569_skillfi_0">0246bed6c37c1210fe5cf61ed40131e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Skillficient">0246bed6c37c1210fe5cf61ed40131e8</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_ed76c79ec3bc1210fe5cf61ed40131ed</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-24 21:39:21</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Skillficient">0246bed6c37c1210fe5cf61ed40131e8</application>
+        <file_path/>
+        <instance_id>78181792db9a3d9037d72a591396193e</instance_id>
+        <instance_name>dev206298</instance_name>
+        <name>sc_cat_item_catalog_ed76c79ec3bc1210fe5cf61ed40131ed</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Training Request">cc218f96c3bc1210fe5cf61ed4013116</sc_cat_item><sc_catalog display_value="HR Catalog">d9720f1ac3bc1210fe5cf61ed40131d6</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-24 21:39:21</sys_created_on><sys_id>ed76c79ec3bc1210fe5cf61ed40131ed</sys_id><sys_mod_count>0</sys_mod_count><sys_name>HR Catalog.Training Request</sys_name><sys_package display_value="Skillficient" source="x_958569_skillfi_0">0246bed6c37c1210fe5cf61ed40131e8</sys_package><sys_policy/><sys_scope display_value="Skillficient">0246bed6c37c1210fe5cf61ed40131e8</sys_scope><sys_update_name>sc_cat_item_catalog_ed76c79ec3bc1210fe5cf61ed40131ed</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-24 21:39:21</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>803943323</payload_hash>
+        <record_name>HR Catalog.Training Request</record_name>
+        <reverted_from/>
+        <source>8e46bed6c37c1210fe5cf61ed40131ec</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-24 21:39:21</sys_created_on>
+        <sys_id>6d76c79ec3bc1210fe5cf61ed40131fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19225f9817a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-24 21:39:21</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>ad76c79ea2bc121099ba80179dcfccfc</update_guid>
+        <update_guid_history>ad76c79ea2bc121099ba80179dcfccfc:803943323</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="HR Catalog.Training Request">96868b9ec3bc1210fe5cf61ed4013120</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-24 21:39:40</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>2fb80e06f3ce4d28b9acccdf695d3931</sys_id>
+        <sys_metadata>ed76c79ec3bc1210fe5cf61ed40131ed</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HR Catalog.Training Request</sys_name>
+        <sys_package display_value="Skillficient" source="x_958569_skillfi_0">0246bed6c37c1210fe5cf61ed40131e8</sys_package>
+        <sys_parent display_value="Training Request">cc218f96c3bc1210fe5cf61ed4013116</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Skillficient">0246bed6c37c1210fe5cf61ed40131e8</sys_scope>
+        <sys_scope_delete display_value="">3ba2d0e08895433599e3641151f842c1</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_ed76c79ec3bc1210fe5cf61ed40131ed</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_ed76c79ec3bc1210fe5cf61ed40131ed">6d76c79ec3bc1210fe5cf61ed40131fd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-24 21:39:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

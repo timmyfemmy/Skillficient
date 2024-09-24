@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="6cb73e5ac37c1210fe5cf61ed401310b" label="Training Request" max_length="40" name="x_958569_skillfi_0_training_request" text_index="true" type="collection">
+        <element label="Proposed start date" max_length="40" name="start_date" type="glide_date"/>
+        <element label="Provider" max_length="40" name="training_provider" type="string"/>
+        <element label="Leave days required" max_length="40" name="leave_days_required" type="integer"/>
+        <element label="Job title" max_length="40" name="job_title" type="string"/>
+        <element label="Leave required" max_length="40" name="leave_required" type="boolean"/>
+        <element label="Estimated Cost" max_length="32" name="estimated_cost" type="currency2"/>
+        <element label="Business justfication" max_length="8000" name="business_justfication" type="html"/>
+        <element label="Extra-budgetary approval required?" max_length="40" name="extra_budgetary_approval" type="boolean"/>
+        <element label="Manager" max_length="40" name="manager" type="string"/>
+        <element label="Training" max_length="40" name="name_of_training" type="string"/>
+        <element label="Relevance to role" max_length="8000" name="relevance_to_role" type="html"/>
+        <element label="Manager justification" max_length="8000" name="manager_justification" type="html"/>
+        <element label="proposed end date" max_length="40" name="proposed_end_date" type="glide_date"/>
+        <element choice="1" label="Corporate LD planned/Budgeted/Ad-Hoc" max_length="40" name="plan_budgeted_adhoc" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Corporate L&amp;D" sequence="0" value="corporate_ld"/>
+                <element inactive_on_update="false" label="Ad-Hoc" sequence="1" value="adhoc"/>
+                <element inactive_on_update="false" label="Budgetted" sequence="2" value="budgetted"/>
+            </choice>
+        </element>
+        <element label="State" max_length="40" name="state" type="string"/>
+        <element choice="1" label="Mode of delivery" max_length="40" name="mode_of_delivery" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Classroom" sequence="1" value="classroom"/>
+                <element inactive_on_update="false" label="Online self-paced" sequence="0" value="online_self_paced"/>
+                <element inactive_on_update="false" label="Online instructor-led" sequence="2" value="online_Instructor_led"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Employee name" max_length="40" name="employee_name" type="string"/>
+        <index name="index">
+            <element name="estimated_cost"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_canvas">
+    <par_dashboard_canvas action="INSERT_OR_UPDATE">
+        <dashboard display_value="Skillficient">42ac8f9689fc121084f351d9805d638c</dashboard>
+        <dashboard_tab/>
+        <layout>[]</layout>
+        <sys_class_name>par_dashboard_canvas</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-24 22:06:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0aac8f96b5fc12105064b22b87a5148b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Skillficient" source="x_958569_skillfi_0">0246bed6c37c1210fe5cf61ed40131e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Skillficient">0246bed6c37c1210fe5cf61ed40131e8</sys_scope>
+        <sys_update_name>par_dashboard_canvas_0aac8f96b5fc12105064b22b87a5148b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-24 22:06:26</sys_updated_on>
+    </par_dashboard_canvas>
+</record_update>

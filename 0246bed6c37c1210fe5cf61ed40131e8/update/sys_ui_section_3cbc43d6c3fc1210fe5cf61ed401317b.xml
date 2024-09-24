@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="3cbc43d6c3fc1210fe5cf61ed401317b" sys_domain="global" table="x_958569_skillfi_0_training_request" version="3" view="workspace-skillficient-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 22:06:37</sys_created_on>
+            <sys_id>85bc43d6c3fc1210fe5cf61ed4013181</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_958569_skillfi_0_training_request" sys_domain="global" view="0aac8f9611fc1210b79685ee92768f88">3cbc43d6c3fc1210fe5cf61ed401317b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 22:06:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name_of_training</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 22:06:37</sys_created_on>
+            <sys_id>45bc43d6c3fc1210fe5cf61ed401317d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_958569_skillfi_0_training_request" sys_domain="global" view="0aac8f9611fc1210b79685ee92768f88">3cbc43d6c3fc1210fe5cf61ed401317b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 22:06:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>start_date</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 22:06:37</sys_created_on>
+            <sys_id>01bc43d6c3fc1210fe5cf61ed4013181</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_958569_skillfi_0_training_request" sys_domain="global" view="0aac8f9611fc1210b79685ee92768f88">3cbc43d6c3fc1210fe5cf61ed401317b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 22:06:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>mode_of_delivery</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 22:06:37</sys_created_on>
+            <sys_id>0dbc43d6c3fc1210fe5cf61ed4013181</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_958569_skillfi_0_training_request" sys_domain="global" view="0aac8f9611fc1210b79685ee92768f88">3cbc43d6c3fc1210fe5cf61ed401317b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 22:06:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>business_justfication</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 22:06:37</sys_created_on>
+            <sys_id>09bc43d6c3fc1210fe5cf61ed401317f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_958569_skillfi_0_training_request" sys_domain="global" view="0aac8f9611fc1210b79685ee92768f88">3cbc43d6c3fc1210fe5cf61ed401317b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 22:06:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>relevance_to_role</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 22:06:37</sys_created_on>
+            <sys_id>01bc43d6c3fc1210fe5cf61ed4013184</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_958569_skillfi_0_training_request" sys_domain="global" view="0aac8f9611fc1210b79685ee92768f88">3cbc43d6c3fc1210fe5cf61ed401317b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 22:06:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>employee_name</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 22:06:37</sys_created_on>
+            <sys_id>0dbc43d6c3fc1210fe5cf61ed401317e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_958569_skillfi_0_training_request" sys_domain="global" view="0aac8f9611fc1210b79685ee92768f88">3cbc43d6c3fc1210fe5cf61ed401317b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 22:06:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>job_title</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 22:06:37</sys_created_on>
+            <sys_id>05bc43d6c3fc1210fe5cf61ed4013183</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_958569_skillfi_0_training_request" sys_domain="global" view="0aac8f9611fc1210b79685ee92768f88">3cbc43d6c3fc1210fe5cf61ed401317b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 22:06:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>estimated_cost</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 22:06:37</sys_created_on>
+            <sys_id>01bc43d6c3fc1210fe5cf61ed401317e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_958569_skillfi_0_training_request" sys_domain="global" view="0aac8f9611fc1210b79685ee92768f88">3cbc43d6c3fc1210fe5cf61ed401317b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 22:06:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 22:06:37</sys_created_on>
+            <sys_id>09bc43d6c3fc1210fe5cf61ed4013182</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_958569_skillfi_0_training_request" sys_domain="global" view="0aac8f9611fc1210b79685ee92768f88">3cbc43d6c3fc1210fe5cf61ed401317b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 22:06:37</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>proposed_end_date</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 22:06:37</sys_created_on>
+            <sys_id>05bc43d6c3fc1210fe5cf61ed4013180</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_958569_skillfi_0_training_request" sys_domain="global" view="0aac8f9611fc1210b79685ee92768f88">3cbc43d6c3fc1210fe5cf61ed401317b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 22:06:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>training_provider</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 22:06:37</sys_created_on>
+            <sys_id>81bc43d6c3fc1210fe5cf61ed4013182</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_958569_skillfi_0_training_request" sys_domain="global" view="0aac8f9611fc1210b79685ee92768f88">3cbc43d6c3fc1210fe5cf61ed401317b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 22:06:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>leave_required</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 22:06:37</sys_created_on>
+            <sys_id>8dbc43d6c3fc1210fe5cf61ed401317f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_958569_skillfi_0_training_request" sys_domain="global" view="0aac8f9611fc1210b79685ee92768f88">3cbc43d6c3fc1210fe5cf61ed401317b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 22:06:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>manager</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 22:06:37</sys_created_on>
+            <sys_id>85bc43d6c3fc1210fe5cf61ed4013184</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_958569_skillfi_0_training_request" sys_domain="global" view="0aac8f9611fc1210b79685ee92768f88">3cbc43d6c3fc1210fe5cf61ed401317b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 22:06:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>leave_days_required</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 22:06:37</sys_created_on>
+            <sys_id>81bc43d6c3fc1210fe5cf61ed401317f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_958569_skillfi_0_training_request" sys_domain="global" view="0aac8f9611fc1210b79685ee92768f88">3cbc43d6c3fc1210fe5cf61ed401317b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 22:06:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>plan_budgeted_adhoc</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 22:06:37</sys_created_on>
+            <sys_id>89bc43d6c3fc1210fe5cf61ed4013183</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_958569_skillfi_0_training_request" sys_domain="global" view="0aac8f9611fc1210b79685ee92768f88">3cbc43d6c3fc1210fe5cf61ed401317b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 22:06:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>extra_budgetary_approval</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 22:06:37</sys_created_on>
+            <sys_id>85bc43d6c3fc1210fe5cf61ed401317e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_958569_skillfi_0_training_request" sys_domain="global" view="0aac8f9611fc1210b79685ee92768f88">3cbc43d6c3fc1210fe5cf61ed401317b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 22:06:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>manager_justification</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 22:06:37</sys_created_on>
+            <sys_id>8dbc43d6c3fc1210fe5cf61ed4013182</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_958569_skillfi_0_training_request" sys_domain="global" view="0aac8f9611fc1210b79685ee92768f88">3cbc43d6c3fc1210fe5cf61ed401317b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 22:06:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 22:06:37</sys_created_on>
+            <sys_id>89bc43d6c3fc1210fe5cf61ed4013180</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_958569_skillfi_0_training_request" sys_domain="global" view="0aac8f9611fc1210b79685ee92768f88">3cbc43d6c3fc1210fe5cf61ed401317b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 22:06:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_958569_skillfi_0_training_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 22:06:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3cbc43d6c3fc1210fe5cf61ed401317b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_958569_skillfi_0_training_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Skillficient" source="x_958569_skillfi_0">0246bed6c37c1210fe5cf61ed40131e8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Skillficient">0246bed6c37c1210fe5cf61ed40131e8</sys_scope>
+            <sys_update_name>sys_ui_section_3cbc43d6c3fc1210fe5cf61ed401317b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 22:06:37</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Workspace Skillficient 0" name="workspace-skillficient-0">0aac8f9611fc1210b79685ee92768f88</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

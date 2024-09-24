@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="mode_of_delivery" table="x_958569_skillfi_0_training_request" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>mode_of_delivery</element>
+            <name>x_958569_skillfi_0_training_request</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 20:45:32</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>mode_of_delivery</sys_name>
+            <sys_package display_value="Skillficient" source="x_958569_skillfi_0">0246bed6c37c1210fe5cf61ed40131e8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Skillficient">0246bed6c37c1210fe5cf61ed40131e8</sys_scope>
+            <sys_update_name>sys_choice_x_958569_skillfi_0_training_request_mode_of_delivery</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 20:45:32</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>mode_of_delivery</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Online self-paced</label>
+            <language>en</language>
+            <name>x_958569_skillfi_0_training_request</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 20:45:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 20:52:24</sys_updated_on>
+            <value>online_self_paced</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>mode_of_delivery</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Classroom</label>
+            <language>en</language>
+            <name>x_958569_skillfi_0_training_request</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 20:45:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 20:45:32</sys_updated_on>
+            <value>classroom</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>mode_of_delivery</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Online instructor-led</label>
+            <language>en</language>
+            <name>x_958569_skillfi_0_training_request</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-24 20:45:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-24 20:52:25</sys_updated_on>
+            <value>online_Instructor_led</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

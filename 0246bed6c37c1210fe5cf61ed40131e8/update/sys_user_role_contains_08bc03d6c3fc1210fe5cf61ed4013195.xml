@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="canvas_user" name="canvas_user">8536f54bc713330072b211d4d8c26080</contains>
+        <role display_value="x_958569_skillfi_0.finace_approver" name="x_958569_skillfi_0.finace_approver">0a46bed6c37c1210fe5cf61ed40131f1</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-24 22:06:33</sys_created_on>
+        <sys_id>08bc03d6c3fc1210fe5cf61ed4013195</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>canvas_user.x_958569_skillfi_0.finace_approver</sys_name>
+        <sys_package display_value="Skillficient" source="x_958569_skillfi_0">0246bed6c37c1210fe5cf61ed40131e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Skillficient">0246bed6c37c1210fe5cf61ed40131e8</sys_scope>
+        <sys_update_name>sys_user_role_contains_08bc03d6c3fc1210fe5cf61ed4013195</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-24 22:06:33</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

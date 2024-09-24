@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="topic">
+    <topic action="DELETE">
+        <active>true</active>
+        <apply_to_child_topics>false</apply_to_child_topics>
+        <banner_image/>
+        <banner_image_url/>
+        <description/>
+        <icon/>
+        <icon_url/>
+        <name>Payroll</name>
+        <order/>
+        <parent_topic display_value="Human Resource">c2338f5ac3bc1210fe5cf61ed4013193</parent_topic>
+        <sys_class_name>topic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-24 21:26:55</sys_created_on>
+        <sys_id>9283cb5ac3bc1210fe5cf61ed401310a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Payroll</sys_name>
+        <sys_package display_value="Skillficient" source="x_958569_skillfi_0">0246bed6c37c1210fe5cf61ed40131e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Skillficient">0246bed6c37c1210fe5cf61ed40131e8</sys_scope>
+        <sys_update_name>topic_9283cb5ac3bc1210fe5cf61ed401310a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-24 21:26:55</sys_updated_on>
+        <taxonomy display_value="Employee">1f5d5a40c3203010069aec4b7d40dd93</taxonomy>
+        <template display_value="emp_taxonomy_topic">4fb26c9cc3d030102ec1a589a840ddbd</template>
+        <topic_based_navigation>false</topic_based_navigation>
+        <topic_contributor/>
+        <topic_manager/>
+        <topic_path/>
+    </topic>
+    <sys_translated_text action="DELETE" query="documentkey=9283cb5ac3bc1210fe5cf61ed401310a"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Skillficient">0246bed6c37c1210fe5cf61ed40131e8</application>
+        <file_path/>
+        <instance_id>78181792db9a3d9037d72a591396193e</instance_id>
+        <instance_name>dev206298</instance_name>
+        <name>topic_9283cb5ac3bc1210fe5cf61ed401310a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="topic"><topic action="INSERT_OR_UPDATE"><active>true</active><apply_to_child_topics>false</apply_to_child_topics><banner_image/><banner_image_url/><description/><icon/><icon_url/><name>Payroll</name><order/><parent_topic display_value="Human Resource">c2338f5ac3bc1210fe5cf61ed4013193</parent_topic><sys_class_name>topic</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-24 21:26:55</sys_created_on><sys_id>9283cb5ac3bc1210fe5cf61ed401310a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Payroll</sys_name><sys_package display_value="Skillficient" source="x_958569_skillfi_0">0246bed6c37c1210fe5cf61ed40131e8</sys_package><sys_policy/><sys_scope display_value="Skillficient">0246bed6c37c1210fe5cf61ed40131e8</sys_scope><sys_update_name>topic_9283cb5ac3bc1210fe5cf61ed401310a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-24 21:26:55</sys_updated_on><taxonomy display_value="Employee">1f5d5a40c3203010069aec4b7d40dd93</taxonomy><template display_value="emp_taxonomy_topic">4fb26c9cc3d030102ec1a589a840ddbd</template><topic_based_navigation>false</topic_based_navigation><topic_contributor/><topic_manager/><topic_path/></topic><sys_translated_text action="delete_multiple" query="documentkey=9283cb5ac3bc1210fe5cf61ed401310a"/></record_update>]]></payload>
+        <payload_hash>-1470706072</payload_hash>
+        <record_name>Payroll</record_name>
+        <reverted_from/>
+        <source>8e46bed6c37c1210fe5cf61ed40131ec</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-24 21:26:56</sys_created_on>
+        <sys_id>2b93439ac3bc1210fe5cf61ed4013146</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19225ee21690000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-24 21:26:56</sys_updated_on>
+        <type>Topic</type>
+        <update_guid>2f93439a1fbc1210a3a389dc0049d145</update_guid>
+        <update_guid_history>2f93439a1fbc1210a3a389dc0049d145:-1470706072</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Payroll">66d34f9ac3bc1210fe5cf61ed4013165</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-24 21:27:57</sys_created_on>
+        <sys_db_object display_value="Topic" name="topic">topic</sys_db_object>
+        <sys_id>0090b373613649c0bf76cd32a4374910</sys_id>
+        <sys_metadata>9283cb5ac3bc1210fe5cf61ed401310a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Payroll</sys_name>
+        <sys_package display_value="Skillficient" source="x_958569_skillfi_0">0246bed6c37c1210fe5cf61ed40131e8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Skillficient">0246bed6c37c1210fe5cf61ed40131e8</sys_scope>
+        <sys_scope_delete display_value="">3ba2d0e08895433599e3641151f842c1</sys_scope_delete>
+        <sys_update_name>topic_9283cb5ac3bc1210fe5cf61ed401310a</sys_update_name>
+        <sys_update_version display_value="topic_9283cb5ac3bc1210fe5cf61ed401310a">2b93439ac3bc1210fe5cf61ed4013146</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-24 21:27:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

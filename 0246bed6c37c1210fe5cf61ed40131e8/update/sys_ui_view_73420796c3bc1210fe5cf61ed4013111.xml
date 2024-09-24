@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>catalog_hr_catalog</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-24 21:21:12</sys_created_on>
+        <sys_id>73420796c3bc1210fe5cf61ed4013111</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HR Catalog View</sys_name>
+        <sys_package display_value="Skillficient" source="x_958569_skillfi_0">0246bed6c37c1210fe5cf61ed40131e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Skillficient">0246bed6c37c1210fe5cf61ed40131e8</sys_scope>
+        <sys_update_name>sys_ui_view_73420796c3bc1210fe5cf61ed4013111</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-24 21:21:12</sys_updated_on>
+        <title>HR Catalog View</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

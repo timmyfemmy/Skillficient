@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog_view_mtom">
+    <sc_catalog_view_mtom action="DELETE">
+        <default>true</default>
+        <sc_catalog display_value="HR Catalog">a432471ac3bc1210fe5cf61ed40131aa</sc_catalog>
+        <sys_class_name>sc_catalog_view_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-24 21:21:12</sys_created_on>
+        <sys_id>33420b1ac3bc1210fe5cf61ed4013131</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HR Catalog.catalog_hr_catalog</sys_name>
+        <sys_package display_value="Skillficient" source="x_958569_skillfi_0">0246bed6c37c1210fe5cf61ed40131e8</sys_package>
+        <sys_policy/>
+        <sys_portal_page display_value="catalog_hr_catalog">37420b1ac3bc1210fe5cf61ed401312f</sys_portal_page>
+        <sys_scope display_value="Skillficient">0246bed6c37c1210fe5cf61ed40131e8</sys_scope>
+        <sys_update_name>sc_catalog_view_mtom_33420b1ac3bc1210fe5cf61ed4013131</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-24 21:21:12</sys_updated_on>
+    </sc_catalog_view_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Skillficient">0246bed6c37c1210fe5cf61ed40131e8</application>
+        <file_path/>
+        <instance_id>78181792db9a3d9037d72a591396193e</instance_id>
+        <instance_name>dev206298</instance_name>
+        <name>sc_catalog_view_mtom_33420b1ac3bc1210fe5cf61ed4013131</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog_view_mtom"><sc_catalog_view_mtom action="INSERT_OR_UPDATE"><default>true</default><sc_catalog display_value="HR Catalog">a432471ac3bc1210fe5cf61ed40131aa</sc_catalog><sys_class_name>sc_catalog_view_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-24 21:21:12</sys_created_on><sys_id>33420b1ac3bc1210fe5cf61ed4013131</sys_id><sys_mod_count>0</sys_mod_count><sys_name>HR Catalog.catalog_hr_catalog</sys_name><sys_package display_value="Skillficient" source="x_958569_skillfi_0">0246bed6c37c1210fe5cf61ed40131e8</sys_package><sys_policy/><sys_portal_page display_value="catalog_hr_catalog">37420b1ac3bc1210fe5cf61ed401312f</sys_portal_page><sys_scope display_value="Skillficient">0246bed6c37c1210fe5cf61ed40131e8</sys_scope><sys_update_name>sc_catalog_view_mtom_33420b1ac3bc1210fe5cf61ed4013131</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-24 21:21:12</sys_updated_on></sc_catalog_view_mtom></record_update>]]></payload>
+        <payload_hash>513251344</payload_hash>
+        <record_name>HR Catalog.catalog_hr_catalog</record_name>
+        <reverted_from/>
+        <source>8e46bed6c37c1210fe5cf61ed40131ec</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-24 21:21:12</sys_created_on>
+        <sys_id>b3420b1ac3bc1210fe5cf61ed4013134</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19225e8e5080000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-24 21:21:12</sys_updated_on>
+        <type>Catalog Portal Page</type>
+        <update_guid>b7420b1a44bc121038add31867f53d33</update_guid>
+        <update_guid_history>b7420b1a44bc121038add31867f53d33:513251344</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="HR Catalog.catalog_hr_catalog">92524b1ac3bc1210fe5cf61ed40131b9</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-24 21:21:23</sys_created_on>
+        <sys_db_object display_value="" name="sc_catalog_view_mtom">sc_catalog_view_mtom</sys_db_object>
+        <sys_id>20c6568fc1c64ed29d5a9b426dc871e4</sys_id>
+        <sys_metadata>33420b1ac3bc1210fe5cf61ed4013131</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HR Catalog.catalog_hr_catalog</sys_name>
+        <sys_package display_value="Skillficient" source="x_958569_skillfi_0">0246bed6c37c1210fe5cf61ed40131e8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Skillficient">0246bed6c37c1210fe5cf61ed40131e8</sys_scope>
+        <sys_scope_delete display_value="">3ba2d0e08895433599e3641151f842c1</sys_scope_delete>
+        <sys_update_name>sc_catalog_view_mtom_33420b1ac3bc1210fe5cf61ed4013131</sys_update_name>
+        <sys_update_version display_value="sc_catalog_view_mtom_33420b1ac3bc1210fe5cf61ed4013131">b3420b1ac3bc1210fe5cf61ed4013134</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-24 21:21:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
